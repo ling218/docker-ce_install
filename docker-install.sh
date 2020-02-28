@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Kali Docker Setup Script
+# Docker Setup Script
 # @ling218 20200222 
 # LICENSE: MIT
 
