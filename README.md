@@ -4,7 +4,7 @@
 ## 前提条件
 ```
 git clone https://github.com/ling218/docker-ce-install
-cd kali_docker-ce_install
+cd docker-ce_install
 ```
 
 ## 安装 docker-ce
