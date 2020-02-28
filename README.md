@@ -3,7 +3,7 @@
 
 ## 前提条件
 ```
-git clone https://github.com/ling218/docker-ce-install
+git clone https://github.com/ling218/docker-ce_install
 cd docker-ce_install
 ```
 
