@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# kali docker remvoe
+# docker-ce remvoe
 # @ling218 20200222
 # MIT
 
